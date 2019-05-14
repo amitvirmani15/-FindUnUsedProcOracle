@@ -1,0 +1,7 @@
+bin/debug/
+bin/Debug/
+bin/release/
+bin/Release/
+[Bb]in/
+[Oo]bj/
+[Pp]ackages
